@@ -29,7 +29,7 @@ Production build: `npm run build`. For static SPA hosting, configure fallback ro
 
 ## Before publishing
 
-1. Replace `CONTACT_EMAIL@example.com` with a verified business email in `src/data/siteData.js`. The email link only activates once configured.
+1. Confirm `purefit@fitness.com` is the correct business email configured in `src/data/siteData.js`.
 2. Review and replace provisional Privacy, Terms and Cookies text with approved legal wording reflecting real site practices.
 3. Confirm correct Pure Fitness brand authority and image/logo permissions. Images are externally hosted demo stock URLs until replaced.
 4. Confirm any factual training-program claims and official brand copy.
